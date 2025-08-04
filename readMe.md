@@ -31,3 +31,7 @@ make kill
 This command performs:  
 - Terminates the processes gzserver, gz, px4_sitl, and px4  
 - Checks port 14540 and kills any process that occupies this port, if any
+
+
+## Demonstartion
+![Alt text](control2.gif)
